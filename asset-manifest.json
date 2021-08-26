@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Alarm-Toggle/static/css/main.51ecbebc.chunk.css",
+    "main.js": "/React-Alarm-Toggle/static/js/main.97825897.chunk.js",
+    "main.js.map": "/React-Alarm-Toggle/static/js/main.97825897.chunk.js.map",
+    "runtime-main.js": "/React-Alarm-Toggle/static/js/runtime-main.1c3c7558.js",
+    "runtime-main.js.map": "/React-Alarm-Toggle/static/js/runtime-main.1c3c7558.js.map",
+    "static/js/2.c33d5d19.chunk.js": "/React-Alarm-Toggle/static/js/2.c33d5d19.chunk.js",
+    "static/js/2.c33d5d19.chunk.js.map": "/React-Alarm-Toggle/static/js/2.c33d5d19.chunk.js.map",
+    "static/js/3.b904c38f.chunk.js": "/React-Alarm-Toggle/static/js/3.b904c38f.chunk.js",
+    "static/js/3.b904c38f.chunk.js.map": "/React-Alarm-Toggle/static/js/3.b904c38f.chunk.js.map",
+    "index.html": "/React-Alarm-Toggle/index.html",
+    "static/css/main.51ecbebc.chunk.css.map": "/React-Alarm-Toggle/static/css/main.51ecbebc.chunk.css.map",
+    "static/js/2.c33d5d19.chunk.js.LICENSE.txt": "/React-Alarm-Toggle/static/js/2.c33d5d19.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c3c7558.js",
+    "static/js/2.c33d5d19.chunk.js",
+    "static/css/main.51ecbebc.chunk.css",
+    "static/js/main.97825897.chunk.js"
+  ]
+}
